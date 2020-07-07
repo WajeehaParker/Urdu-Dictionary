@@ -13,6 +13,6 @@
   "license": "CC-by-SA 4.0",
   "devDependencies": {
     "@types/node": "^8.0.32",
-    "electron": "^1.3.5"
+    "electron": "^9.1.0"
   }
 }
